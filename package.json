@@ -14,7 +14,8 @@
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
     "react-scripts": "^4.0.3",
-    "web3": "^1.4.0"
+    "web3": "^1.4.0",
+    "node-fetch":"*"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^4.2.0",
